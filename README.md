@@ -1,7 +1,7 @@
 <h1 align="center">Hi :D I'm Jeakarllo</h1>
 <h3 align="center">A young developer starting it's carreer</h3>
 
-- 🔭 I'm currently in a projetc for IFTI3 at Instituto Ivoti called [Cluster](https://github.com/wynvern/cluster)
+- 🔭 I'm currently in a project for IFTI3 at Instituto Ivoti called [Cluster](https://github.com/wynvern/cluster)
 
 - 🌱 I’m currently learning **Tensorflow, Rust**
 
